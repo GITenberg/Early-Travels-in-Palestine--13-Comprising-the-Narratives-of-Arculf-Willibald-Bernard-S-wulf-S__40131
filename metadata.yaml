@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 40131-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40131#Early-Travels-in-Palestine--13-Comprising-the-Narratives-of-Arculf-Willibald-Bernard-S-wulf-S_
 gutenberg_issued: '2012-07-03'
 gutenberg_type: Text
 identifiers:
