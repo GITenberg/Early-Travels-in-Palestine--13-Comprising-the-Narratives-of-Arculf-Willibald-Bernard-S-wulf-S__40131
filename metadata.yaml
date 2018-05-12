@@ -1,0 +1,30 @@
+_repo: Early-Travels-in-Palestine--13-Comprising-the-Narratives-of-Arculf-Willibald-Bernard-S-wulf-S__40131
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Wright, Thomas
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '40435'
+    url: http://www.gutenberg.org/2009/agents/40435
+covers:
+- cover_type: archival
+  image_path: 40131-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2012-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40131'
+  lccn: 02002188
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle East -- Description and travel -- Early works to 1800'
+- !lcc 'DS'
+- !lcsh 'Palestine -- Description and travel -- Early works to 1800'
+title: "Early Travels in Palestine\r\nComprising the Narratives of Arculf, Willibald,\
+  \ Bernard, Sæwulf, Sigurd, Benjamin of Tudela, Sir John Maundeville, de la Brocquière,\
+  \ and Maundrell"
+url: http://www.gutenberg.org/ebooks/40131
